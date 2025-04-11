@@ -1,14 +1,50 @@
-## Proje Nedir?
-Bu proje, basit bir sosyal medya profil kartı.
 
-## Neler Var?
-- **Sade ve Şık Tasarım**: Koyu tema, içeriği öne çıkarıyor ve gözü yormuyor. Kartın yuvarlak köşeleri ve düzgün hizalaması modern bir hava katıyor.
-- **Mobil Uyumluluk**: Flexbox sağ olsun, sayfa her ekran boyutunda düzgün duruyor. Telefonla bakarken bile her şey yerli yerinde.
-- **Havalı Hover Efektleri**: Sosyal medya düğmelerinin üstüne gelince neon yeşiline dönüyor, böylece sayfa biraz daha canlı hissediyor.
-- **Temiz Kod**: HTML ve CSS dosyalarını olabildiğince düzenli yazdım. Başka biri baksın, hemen anlasın istedim.
-- **Hızlı ve Hafif**: Görseller optimize, kod şişkin değil. Sayfa anında yükleniyor.
-- **Okunabilirlik**: Renk kontrastlarına dikkat ettim ki metinler her zaman net görünsün.
+## İçindekiler
 
-## Hangi Araçları Kullandım?
-- **HTML5**: Sayfanın iskeletini oluşturmak için. Çok karmaşık bir yapı yok, ama her şey yerli yerinde.
-- **CSS3**: Düzen, stil ve küçük animasyonlar için. Flexbox’la hizalamaları yaptım, `border-radius` ve `hover` efektleriyle de görselliği güçlendirdim.
+  - [Ekran Görüntüsü](#ekran-görüntüsü)
+  - [Bağlantılar](#bağlantılar)
+  - [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
+  - [Neler Öğrendim](#neler-öğrendim)
+
+### Ekran Görüntüsü
+
+![Ekran Görüntüsü](./screenshot.jpg)
+
+### Bağlantılar
+
+- Canlı Site URL: [Canlı Site URL'si](https://your-live-site-url.com)
+
+### Kullanılan Teknolojiler
+
+- HTML5
+- CSS3
+- Flexbox
+- Mobil öncelikli tasarım
+
+### Neler Öğrendim
+
+Bu projede, basit ama şık bir profil kartı tasarlamayı ve etkileşimli öğeler oluşturmayı öğrendim. Öne çıkanlar:
+
+- HTML ile temiz ve düzenli yapı kurma:
+```html
+<div class="container">
+  <img src="./assets/images/avatar-jessica.jpeg" alt="">
+  <h1>Jessica Randall</h1>
+  <span>London, United Kingdom</span>
+</div>
+'''
+-CSS ile hover efektleri ve esnek düzen:
+'''css
+button {
+    height: 45px;
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    border: 0px;
+    background-color: #333333;
+    color: white;
+}
+button:hover {
+    background-color: #bede6d;
+}
+'''
