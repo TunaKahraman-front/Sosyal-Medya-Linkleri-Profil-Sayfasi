@@ -1,1 +1,0 @@
-# Sosyal-Medya-Linkleri-Profil-Sayfasi
