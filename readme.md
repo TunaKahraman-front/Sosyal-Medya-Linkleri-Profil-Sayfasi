@@ -8,7 +8,7 @@
 
 ### Ekran Görüntüsü
 
-![Ekran Görüntüsü](./screenshot.jpg)
+![Ekran Görüntüsü](./screenshot.png)
 
 ### Bağlantılar
 
