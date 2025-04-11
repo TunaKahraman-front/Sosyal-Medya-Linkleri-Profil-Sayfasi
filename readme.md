@@ -12,7 +12,7 @@
 
 ### Bağlantılar
 
-- Canlı Site URL: [Canlı Site URL'si](https://your-live-site-url.com)
+- Canlı Site URL: [Canlı Site URL'si](https://tunakahraman-front.github.io/Sosyal-Medya-Linkleri-Profil-Sayfasi/))
 
 ### Kullanılan Teknolojiler
 
