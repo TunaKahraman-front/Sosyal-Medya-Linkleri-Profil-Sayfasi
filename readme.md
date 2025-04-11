@@ -33,7 +33,7 @@ Bu projede, basit ama şık bir profil kartı tasarlamayı ve etkileşimli öğe
   <span>London, United Kingdom</span>
 </div>
 ```
--CSS ile hover efektleri ve esnek düzen:
+- CSS ile hover efektleri ve esnek düzen:
 ```css
 button {
     height: 45px;
