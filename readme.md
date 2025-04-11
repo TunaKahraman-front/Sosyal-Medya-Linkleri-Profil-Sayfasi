@@ -34,7 +34,7 @@ Bu projede, basit ama şık bir profil kartı tasarlamayı ve etkileşimli öğe
 </div>
 '''
 -CSS ile hover efektleri ve esnek düzen:
-'''css
+```css
 button {
     height: 45px;
     width: 100%;
@@ -47,4 +47,4 @@ button {
 button:hover {
     background-color: #bede6d;
 }
-'''
+```
