@@ -32,7 +32,7 @@ Bu projede, basit ama şık bir profil kartı tasarlamayı ve etkileşimli öğe
   <h1>Jessica Randall</h1>
   <span>London, United Kingdom</span>
 </div>
-'''
+```
 -CSS ile hover efektleri ve esnek düzen:
 ```css
 button {
